@@ -1,0 +1,14 @@
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\bin\Debug\net10.0\SCVtoXML.exe
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\bin\Debug\net10.0\SCVtoXML.deps.json
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\bin\Debug\net10.0\SCVtoXML.runtimeconfig.json
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\bin\Debug\net10.0\SCVtoXML.dll
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\bin\Debug\net10.0\SCVtoXML.pdb
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.AssemblyInfoInputs.cache
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.AssemblyInfo.cs
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.csproj.CoreCompileInputs.cache
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.dll
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\refint\SCVtoXML.dll
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.pdb
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\SCVtoXML.genruntimeconfig.cache
+C:\Users\Alan\AccesoDatos\GestionDeFicheros3\obj\Debug\net10.0\ref\SCVtoXML.dll
